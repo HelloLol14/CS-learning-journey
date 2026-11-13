@@ -1,4 +1,5 @@
-Below is my two year preparation for CS while I'm still serving NS
+Below is my two year preparation for CS while I'm still serving NS.
+
 I hope to learn:
 1) Python programming
 2) Data structures/algorithms
